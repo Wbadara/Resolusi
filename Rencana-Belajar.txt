@@ -6,3 +6,4 @@
    ^ sisop
  - Belajar mandiri
  - Ikuti pelatihan online
+   ^ udemy
