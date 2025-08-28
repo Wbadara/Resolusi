@@ -1,0 +1,4 @@
+ Rencana belajar saya
+ - Memepelajari git dan github
+ - Mengulang materi dari dasar
+ - Belajar mandiri
