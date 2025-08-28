@@ -4,6 +4,9 @@
  - Mengulang materi dari dasar 
    ^ daspro
    ^ strukdat
+   ^ sisop
  - Belajar mandiri
+ - Ikuti pelatihan online
+   ^ udemy
  - Perbanyak latihan
    ^ tlx
